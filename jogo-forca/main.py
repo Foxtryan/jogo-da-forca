@@ -100,7 +100,6 @@ ScreenManager:
 			
 		TextInput:
 			id: txt_chute
-			focus: True
 			font_size: "40sp"
 			size_hint: (.3, .2)
 			pos_hint: {'center_x':.5, 'center_y':.5}
@@ -193,7 +192,6 @@ class Jogo(Screen):
 							self.trocar_imagem()
 
 			self.ids.txt_chute.text = ""
-			self.ids.txt_chute.focus = True
 			self.atualizar_label()
 
 	# Atualiza as Labels para saber os erros e acertos
