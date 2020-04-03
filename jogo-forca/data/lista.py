@@ -26,5 +26,5 @@
 
 # País
 'Brasil', 'Alemanhã', 'Noruega', 'Inglaterra', 'França', 'Italia',
-'Portugal', 'México'
+'Portugal', 'México', 'China'
 ]
