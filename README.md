@@ -11,7 +11,7 @@ v1.5 - Versão atual
 ----------------------------------------------------
 OLD:
 
-v1.2 - 2018 - Versão sem upload no Github, na época esqueci de fazer o upload.
+v1.2 - 2017 - Versão sem upload no Github, na época esqueci de fazer o upload.
 - Substituída a forma de tratamento dos acentos por incompatibilidade da biblioteca antiga com smartphones;
 - Adicionado alterações de cores conforme o andamento da partida;
 
