@@ -3,10 +3,10 @@
 Exemplo de Jogo da forca em python e Kivy, criado por mim para auxiliar o estudo da biblioteca.
 
 v1.6 - Versão Atual
-- Fixado um bug da versão anterior que impedia a derrota em alguns sistemas.
-
+- Fixado um bug na leitura das condições de derrota;
+- Fixado um bug que ao gerar o APK, o objeto <Jogo> não era localizado na memória.
 ----------------------------------------------------
-v1.5 - 2020 - Erro Grave: Verificação das condições de derrota processadas antes da execução.
+v1.5 - 2020
 - Corrigido um problema em que as vezes a palavra não era sorteada ao iniciar o aplicativo;
 - Código Kivy transportado para dentro do arquivo Python;
 - Aperfeiçoamento da legibilidade do código;
